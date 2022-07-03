@@ -1,1 +1,3 @@
 # Memo
+
+Grossierement des memo
