@@ -1,4 +1,4 @@
-## Scanning Options
+## Scanning Options | Options de scan
 
 | **Nmap Option** | **Description** | **Description FR** |
 |---|----|-------------------|
@@ -32,7 +32,7 @@
 
 
 
-## Output Options
+## Output Options | Options de sortie
 
 
 | **Nmap Option** | **Description** | **Description FR** |
@@ -44,7 +44,7 @@
 
 
 
-## Performance Options
+## Performance Options | Options de performance
 
 | **Nmap Option** | **Description** | **Description FR** |
 |---|----|-------------------|
