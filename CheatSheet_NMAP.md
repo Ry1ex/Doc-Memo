@@ -4,10 +4,10 @@
 |---|----|-------------------|
 | `10.10.10.0/24` | Target network range. | Plage de réseau cible. |
 | `-sn` | Disables port scanning. | Désactive l'analyse des ports. |
-| `-Pn` | Disables ICMP Echo Requests |
-| `-n` | Disables DNS Resolution. | Désactive les demandes d'écho ICMP |
-| `-PE` | Performs the ping scan by using ICMP Echo Requests against the target. |
-| `--packet-trace` | Shows all packets sent and received. | Effectue le scan ping en utilisant des requêtes d'écho ICMP contre la cible. |
+| `-Pn` | Disables ICMP Echo Requests | Désactive les demandes d'écho ICMP |
+| `-n` | Disables DNS Resolution. | Désactive la résolution DNS. |
+| `-PE` | Performs the ping scan by using ICMP Echo Requests against the target. | Effectue l'analyse ping en utilisant les requêtes d'écho ICMP sur la cible. |
+| `--packet-trace` | Shows all packets sent and received. | Affiche tous les paquets envoyés et reçus. |
 | `--reason` | Displays the reason for a specific result. | Affiche la raison d'un résultat spécifique. |
 | `--disable-arp-ping` | Disables ARP Ping Requests. | Désactive les requêtes Ping ARP. |
 | `--top-ports=<num>` | Scans the specified top ports that have been defined as most frequent. | Analyse les ports supérieurs spécifiés qui ont été définis comme les plus fréquents.  |
