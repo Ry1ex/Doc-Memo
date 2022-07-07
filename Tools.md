@@ -16,3 +16,9 @@
 |----------------|----------------------------------|-----------------------------------------------------|
 | `Nmap` | Nmap is a free port scanner. It is designed to detect open ports, identify hosted services, and obtain information about a remote computer's operating system. | Nmap est un scanner de ports libre. Il est conçu pour détecter les ports ouverts, identifier les services hébergés et obtenir des informations sur le système d'exploitation d'un ordinateur distant. [CheatSheet Nmap](https://github.com/RylexOff/Memo/blob/main/CheatSheet_NMAP.md)|
 | `Snmpwalk` | snmpwalk is a Unix command that allows you to query a machine equipped with an SNMP agent through a network. The command obtains information successively by using the GETNEXT command of the SNMP protocol, thus making it possible to consult part of the tree formed by the OIDs (for object identifier). | snmpwalk est une commande Unix qui permet d'interroger une machine pourvue d'un agent SNMP à travers un réseau. La commande obtient des informations successivement en utilisant la commande GETNEXT du protocole SNMP, permettant ainsi de consulter une partie de l'arbre formé par les OID (pour object identifier). |
+
+## Template for future ##
+| **Name tools** | **Description** | **Description FR** |
+|----------------|----------------------------------|-----------------------------------------------------|
+| `Name` | Description | Description FR |
+| `Name` | Description | Description FR |
