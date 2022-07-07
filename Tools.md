@@ -1,3 +1,11 @@
+## Indroduction FR ##
+
+Vous trouverez ici une liste d'outil avec une rapide description (et parfois des cheat sheet) qui peut etre utile dans vos audit ou vos challenge TryHacKMe et HTB n'hessité pas de faire un `CTRL + F`
+
+## Indroduction EN ##
+
+You will find here a list of tools with a quick description (and sometimes cheat sheets) which can be useful in your audits or your challenges TryHacKMe and HTB does not hesitate to do a `CTRL + F`
+
 ## Basic Tools ##
 
 | **Name tools** | **Description** | **Description FR** |
